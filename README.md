@@ -1,3 +1,2 @@
-# da
-i lrarm
-kj
+git course
+learn course
